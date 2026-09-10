@@ -1,0 +1,6 @@
+{
+  "name": "تاونات: نداء الماء والطريق",
+  "description": "منصة إعلامية وتفاعلية مدعومة بالقراءة الصوتية الذكية (TTS) لرصد واقع البنية التحتية والماء الصالح للشرب بإقليم تاونات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
